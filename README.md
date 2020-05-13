@@ -1,7 +1,10 @@
-# Folha-de-pagamento
+# Simulação de uma folha de pagamento.
+
+Projeto da disciplina Programação e Desenvolvimendo de Software 2, do curso de bacheraldo em Sistemas da Informação da Universidade Federal de Minas Gerais - UFMG.
 
 ## Objetivo
-O exercício utiliza uma hierarquia de herança contendo tipos de empregados em um aplicativo que simula a folha de pagamento de uma empresa.
+
+O exercício utiliza uma hierarquia de herança contendo tipos de empregados em um aplicativo que simula a folha de pagamento de uma empresa. 
 
 ## Implementação
 

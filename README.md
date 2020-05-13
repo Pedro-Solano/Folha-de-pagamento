@@ -1,6 +1,6 @@
 # Simulação de uma folha de pagamento.
 
-Projeto da disciplina Programação e Desenvolvimendo de Software 2, do curso de bacheraldo em Sistemas da Informação da Universidade Federal de Minas Gerais - UFMG.
+Projeto da disciplina Programação e Desenvolvimendo de Software 2, do curso de bacharelado em Sistemas da Informação da Universidade Federal de Minas Gerais - UFMG.
 
 ## Objetivo
 

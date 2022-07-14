@@ -18,4 +18,4 @@ No main é simulado o processamento da folha de pagamento. Cria-se um vector de 
 A saída do programa é impressa na tela e mostra os atributos de cada funcionário, bem como o salário recebido no mês.
 
 ## Compilação:
-Deve ser utilizado o comando "make" na linha de comando dentro da pasta onde está armezado o arquivo makefile e os demais arquivos de código. Esse comando irá gerar o executável "pagamento".
+Deve ser utilizado o comando "make" na linha de comando dentro da pasta onde está armazenado o arquivo makefile e os demais arquivos de código. Esse comando irá gerar o executável "pagamento".
